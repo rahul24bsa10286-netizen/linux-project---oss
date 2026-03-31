@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Tanmay Kala | Course: Open Source Software
+# Author: RAHUL KUMAR MONDAL | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Tanmay Kala"
+STUDENT_NAME=""RAHUL KUMAR MONDAL
 SOFTWARE_CHOICE="Python"
 
 # --- System info ---
